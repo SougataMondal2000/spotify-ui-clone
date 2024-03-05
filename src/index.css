@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #121212;
+  font-family: Circular, spotify-circular, Helvetica, Arial, sans-serif;
+}
+.signika {
+  font-family: "Signika", sans-serif;
+}
+
+button {
+  transition: all 0.3s ease; /* Adjust the duration and easing as needed */
+}
